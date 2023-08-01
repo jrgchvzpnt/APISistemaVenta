@@ -21,3 +21,26 @@ C:\Curso de Sistema de Venta Angular\APISistemaVenta\SistemaVenta.IOC\bin\Debug\
 C:\Curso de Sistema de Venta Angular\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.DTO.pdb
 C:\Curso de Sistema de Venta Angular\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.Model.pdb
 C:\Curso de Sistema de Venta Angular\APISistemaVenta\SistemaVenta.IOC\obj\Debug\net7.0\SistemaVenta.IOC.csproj.CopyComplete
+C:\Proyectos\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.IOC.deps.json
+C:\Proyectos\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.IOC.dll
+C:\Proyectos\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.IOC.pdb
+C:\Proyectos\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.BLL.dll
+C:\Proyectos\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.DAL.dll
+C:\Proyectos\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.DTO.dll
+C:\Proyectos\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.Model.dll
+C:\Proyectos\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.Utility.dll
+C:\Proyectos\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.BLL.pdb
+C:\Proyectos\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.DAL.pdb
+C:\Proyectos\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.Utility.pdb
+C:\Proyectos\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.DTO.pdb
+C:\Proyectos\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.Model.pdb
+C:\Proyectos\APISistemaVenta\SistemaVenta.IOC\obj\Debug\net7.0\SistemaVenta.IOC.csproj.AssemblyReference.cache
+C:\Proyectos\APISistemaVenta\SistemaVenta.IOC\obj\Debug\net7.0\SistemaVenta.IOC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\APISistemaVenta\SistemaVenta.IOC\obj\Debug\net7.0\SistemaVenta.IOC.AssemblyInfoInputs.cache
+C:\Proyectos\APISistemaVenta\SistemaVenta.IOC\obj\Debug\net7.0\SistemaVenta.IOC.AssemblyInfo.cs
+C:\Proyectos\APISistemaVenta\SistemaVenta.IOC\obj\Debug\net7.0\SistemaVenta.IOC.csproj.CoreCompileInputs.cache
+C:\Proyectos\APISistemaVenta\SistemaVenta.IOC\obj\Debug\net7.0\SistemaVenta.IOC.csproj.CopyComplete
+C:\Proyectos\APISistemaVenta\SistemaVenta.IOC\obj\Debug\net7.0\SistemaVenta.IOC.dll
+C:\Proyectos\APISistemaVenta\SistemaVenta.IOC\obj\Debug\net7.0\refint\SistemaVenta.IOC.dll
+C:\Proyectos\APISistemaVenta\SistemaVenta.IOC\obj\Debug\net7.0\SistemaVenta.IOC.pdb
+C:\Proyectos\APISistemaVenta\SistemaVenta.IOC\obj\Debug\net7.0\ref\SistemaVenta.IOC.dll

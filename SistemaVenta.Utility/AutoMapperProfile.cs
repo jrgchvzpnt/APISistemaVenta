@@ -49,7 +49,7 @@ namespace SistemaVenta.Utility
             #endregion
 
             #region Categoria
-            CreateMap<Categoria, RolDTO>().ReverseMap();
+            CreateMap<Categoria, CategoriaDTO>().ReverseMap();
             #endregion
 
             #region Producto

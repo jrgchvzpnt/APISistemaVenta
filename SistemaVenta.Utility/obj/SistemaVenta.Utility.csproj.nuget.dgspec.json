@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Curso de Sistema de Venta Angular\\APISistemaVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj": {}
+    "C:\\Proyectos\\APISistemaVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj": {}
   },
   "projects": {
-    "C:\\Curso de Sistema de Venta Angular\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj": {
+    "C:\\Proyectos\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Curso de Sistema de Venta Angular\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj",
+        "projectUniqueName": "C:\\Proyectos\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj",
         "projectName": "SistemaVenta.DTO",
-        "projectPath": "C:\\Curso de Sistema de Venta Angular\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj",
-        "packagesPath": "C:\\Users\\el_do\\.nuget\\packages\\",
-        "outputPath": "C:\\Curso de Sistema de Venta Angular\\APISistemaVenta\\SistemaVenta.DTO\\obj\\",
+        "projectPath": "C:\\Proyectos\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Proyectos\\APISistemaVenta\\SistemaVenta.DTO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\el_do\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -59,17 +59,17 @@
         }
       }
     },
-    "C:\\Curso de Sistema de Venta Angular\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj": {
+    "C:\\Proyectos\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Curso de Sistema de Venta Angular\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj",
+        "projectUniqueName": "C:\\Proyectos\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj",
         "projectName": "SistemaVenta.Model",
-        "projectPath": "C:\\Curso de Sistema de Venta Angular\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj",
-        "packagesPath": "C:\\Users\\el_do\\.nuget\\packages\\",
-        "outputPath": "C:\\Curso de Sistema de Venta Angular\\APISistemaVenta\\SistemaVenta.Model\\obj\\",
+        "projectPath": "C:\\Proyectos\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Proyectos\\APISistemaVenta\\SistemaVenta.Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\el_do\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -126,17 +126,17 @@
         }
       }
     },
-    "C:\\Curso de Sistema de Venta Angular\\APISistemaVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj": {
+    "C:\\Proyectos\\APISistemaVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Curso de Sistema de Venta Angular\\APISistemaVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj",
+        "projectUniqueName": "C:\\Proyectos\\APISistemaVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj",
         "projectName": "SistemaVenta.Utility",
-        "projectPath": "C:\\Curso de Sistema de Venta Angular\\APISistemaVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj",
-        "packagesPath": "C:\\Users\\el_do\\.nuget\\packages\\",
-        "outputPath": "C:\\Curso de Sistema de Venta Angular\\APISistemaVenta\\SistemaVenta.Utility\\obj\\",
+        "projectPath": "C:\\Proyectos\\APISistemaVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Proyectos\\APISistemaVenta\\SistemaVenta.Utility\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\el_do\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -150,11 +150,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Curso de Sistema de Venta Angular\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj": {
-                "projectPath": "C:\\Curso de Sistema de Venta Angular\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj"
+              "C:\\Proyectos\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj": {
+                "projectPath": "C:\\Proyectos\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj"
               },
-              "C:\\Curso de Sistema de Venta Angular\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj": {
-                "projectPath": "C:\\Curso de Sistema de Venta Angular\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj"
+              "C:\\Proyectos\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj": {
+                "projectPath": "C:\\Proyectos\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj"
               }
             }
           }

@@ -15,3 +15,20 @@ C:\Curso de Sistema de Venta Angular\APISistemaVenta\SistemaVenta.Utility\bin\De
 C:\Curso de Sistema de Venta Angular\APISistemaVenta\SistemaVenta.Utility\bin\Debug\net7.0\SistemaVenta.DTO.pdb
 C:\Curso de Sistema de Venta Angular\APISistemaVenta\SistemaVenta.Utility\bin\Debug\net7.0\SistemaVenta.Model.pdb
 C:\Curso de Sistema de Venta Angular\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net7.0\SistemaVenta.Utility.csproj.CopyComplete
+C:\Proyectos\APISistemaVenta\SistemaVenta.Utility\bin\Debug\net7.0\SistemaVenta.Utility.deps.json
+C:\Proyectos\APISistemaVenta\SistemaVenta.Utility\bin\Debug\net7.0\SistemaVenta.Utility.dll
+C:\Proyectos\APISistemaVenta\SistemaVenta.Utility\bin\Debug\net7.0\SistemaVenta.Utility.pdb
+C:\Proyectos\APISistemaVenta\SistemaVenta.Utility\bin\Debug\net7.0\SistemaVenta.DTO.dll
+C:\Proyectos\APISistemaVenta\SistemaVenta.Utility\bin\Debug\net7.0\SistemaVenta.Model.dll
+C:\Proyectos\APISistemaVenta\SistemaVenta.Utility\bin\Debug\net7.0\SistemaVenta.DTO.pdb
+C:\Proyectos\APISistemaVenta\SistemaVenta.Utility\bin\Debug\net7.0\SistemaVenta.Model.pdb
+C:\Proyectos\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net7.0\SistemaVenta.Utility.csproj.AssemblyReference.cache
+C:\Proyectos\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net7.0\SistemaVenta.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net7.0\SistemaVenta.Utility.AssemblyInfoInputs.cache
+C:\Proyectos\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net7.0\SistemaVenta.Utility.AssemblyInfo.cs
+C:\Proyectos\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net7.0\SistemaVenta.Utility.csproj.CoreCompileInputs.cache
+C:\Proyectos\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net7.0\SistemaVenta.Utility.csproj.CopyComplete
+C:\Proyectos\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net7.0\SistemaVenta.Utility.dll
+C:\Proyectos\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net7.0\refint\SistemaVenta.Utility.dll
+C:\Proyectos\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net7.0\SistemaVenta.Utility.pdb
+C:\Proyectos\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net7.0\ref\SistemaVenta.Utility.dll
